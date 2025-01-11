@@ -9,4 +9,4 @@ Film severler için tasarladığım bu projede gerçek zamanlı verilerle çalı
 📱 Mobil ve masaüstü cihazlara uygun duyarlı tasarım
 ♻️ API'den dinamik olarak yüklenen film bilgileri (poster,puanlama,film tanıtımı)
 
-# Moview_App
+![](demo/Ekran-Kaydı-2025-01-11-202836.gif)
