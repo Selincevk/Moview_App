@@ -11,4 +11,5 @@ Film severler için tasarladığım bu projede gerçek zamanlı verilerle çalı
 
 
 <h1>DEMO</h1>
+
 ![](demo/Ekran-Kaydı-2025-01-11-202836.gif)
